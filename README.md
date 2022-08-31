@@ -6,11 +6,11 @@ This project serves as Shen Haochen's MSc final year project at Imperial College
 
 The system can be built into 2 main parts, object detection and iOS map application development.
 
-### Object Detection Overview
+### Overview of Object Detection
 
 ![object detection overview](https://user-images.githubusercontent.com/99172459/187585232-d4669342-3673-4af1-a6fc-020b5449677b.jpg)
 
-### Map App Development Overview
+### Overview of Map App Development
 
 ![map application overview](https://user-images.githubusercontent.com/99172459/187585278-3470f96b-a06b-42aa-a770-2ebff4ddc13b.jpg)
 
