@@ -1,6 +1,6 @@
 # Autonomous-Accessibility-Annotation-of-Maps-via-Panoramas
 
-This project serves as Shen Haochen's MSc final year project at Imperial College London for the 2022 academic year.
+This project serves as **Haochen Shen**'s MSc final year project at Imperial College London for the 2022 academic year.
 
 ## System Design
 
