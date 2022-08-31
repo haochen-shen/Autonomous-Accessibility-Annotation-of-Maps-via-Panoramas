@@ -2,6 +2,10 @@
 
 This project serves as **Haochen Shen**'s MSc final year project at Imperial College London for the 2022 academic year.
 
+## Abstract
+
+
+
 ## System Design
 
 The system can be built into 2 main parts, object detection and iOS map application development.
