@@ -4,9 +4,8 @@ This project serves as Shen Haochen's MSc final year project at Imperial College
 
 ## System Design
 
-![This is an image][object detection overview](https://user-images.githubusercontent.com/99172459/187585232-d4669342-3673-4af1-a6fc-020b5449677b.jpg)
-t.svg)
-![This is an image][map application overview](https://user-images.githubusercontent.com/99172459/187585278-3470f96b-a06b-42aa-a770-2ebff4ddc13b.jpg)
+![object detection overview](https://user-images.githubusercontent.com/99172459/187585232-d4669342-3673-4af1-a6fc-020b5449677b.jpg)
+![map application overview](https://user-images.githubusercontent.com/99172459/187585278-3470f96b-a06b-42aa-a770-2ebff4ddc13b.jpg)
 
 ## User Guide
 
