@@ -1,1 +1,9 @@
 # Autonomous-Accessibility-Annotation-of-Maps-via-Panoramas
+
+ \item \textbf{Object Detection Model} folder contains \emph{YOLOv5 train model.ipynb} and \emph{YOLOv5 load model.ipynb} for different size of images. It will be shown how the project trains the YOLOv5 model and how it is applied to object detection through detailed code scripts.
+    \item \textbf{Panorama Dataset} and \textbf{Panorama Dataset extra} folders contain panoramic images of Imperial College London and its environs. These images are used to train the model and perform actual step and ramp detection tasks.
+    \item \textbf{Test Dataset} folder contains panoramic images of British Museum and its surrounding areas. These images are utilised to evaluate the robustness of the trained YOLOv5 model in various environments.
+    \item \textbf{YOLOv5 Testing and Results} folder contains the results and performance of models trained on varying sized image datasets. \emph{best.pt} saves the optimal weights for the model during training and can be loaded to detect steps and ramps. \emph{results.png} shows the model's loss and metric curves and it is used to evaluate the performance of the model. \textbf{test set image} folder includes examples of the model detecting panorama objects. \emph{.geojson} includes information regarding the accessibility location obtained by coordinate transformation.
+    \item \emph{Data processing.ipynb} contains all methods for obtaining valid data. This includes extracting the image's metadata, converting the coordinates, calculating latitude and longitude, and converting the file format.
+    \item \textbf{iOS Mapp Application} folder contains all Xcode files related to the development of iOS Map App. \emph{routeselectionviewcontroller.swift} and \emph{directionviewcontroller.swift} implement the map annotation and navigation functions, respectively. In addition, the UI design is primarily included in \emph{.xib} files.
+    
